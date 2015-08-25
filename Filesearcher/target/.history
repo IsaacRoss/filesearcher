@@ -1,0 +1,9 @@
+console
+exit
+sbt eclipse
+eclipse
+exit
+eclipse
+exit
+eclipse
+exit

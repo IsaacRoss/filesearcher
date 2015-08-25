@@ -1,0 +1,248 @@
+2015-08-24 21:06:20,441  WARN [ModalContext] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:06:20,442  WARN [ModalContext] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:06:21,363  WARN [ModalContext] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:06:21,363  WARN [ModalContext] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:06:21,700  WARN [Worker-3] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:06:21,702  WARN [Worker-3] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:06:35,726  WARN [Worker-3] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:06:35,726  WARN [Worker-3] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:06:35,746  WARN [Worker-3] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:06:35,747  WARN [Worker-3] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:19:03,728  WARN [Worker-10] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:19:03,728  WARN [Worker-10] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:24:02,412  WARN [Worker-0] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:24:02,414  WARN [Worker-0] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:24:03,845  WARN [Worker-1] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:24:03,847  WARN [Worker-1] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:24:03,880  WARN [Worker-1] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:24:03,880  WARN [Worker-1] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:24:04,564  WARN [Worker-1] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:24:04,564  WARN [Worker-1] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:24:29,321  WARN [bundle-323-ActorSystem-akka.actor.default-dispatcher-2] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:24:29,321  WARN [bundle-323-ActorSystem-akka.actor.default-dispatcher-2] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:24:30,002 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Error during instrumentation of ScriptCompilationUnit(L/Filesearcher/src/main/scala-2.11/testBed.sc)
+org.scalaide.worksheet.runtime.MissingTopLevelObjectDeclaration: Couldn't find top level object declaration in source testBed.sc
+	at org.scalaide.worksheet.runtime.SourceInstrumenter.instrumentProgram(SourceInstrumenter.scala:37)
+	at org.scalaide.worksheet.runtime.SourceInstrumenter.instrument(SourceInstrumenter.scala:24)
+	at org.scalaide.worksheet.runtime.WorksheetRunner$$anonfun$receive$1.applyOrElse(WorksheetRunner.scala:70)
+	at akka.actor.Actor$class.aroundReceive(Actor.scala:465)
+	at org.scalaide.worksheet.runtime.WorksheetRunner.aroundReceive(WorksheetRunner.scala:44)
+	at akka.actor.ActorCell.receiveMessage(ActorCell.scala:516)
+	at akka.actor.ActorCell.invoke(ActorCell.scala:487)
+	at akka.dispatch.Mailbox.processMailbox(Mailbox.scala:254)
+	at akka.dispatch.Mailbox.run(Mailbox.scala:221)
+	at akka.dispatch.Mailbox.exec(Mailbox.scala:231)
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)
+2015-08-24 21:25:04,823 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Error during instrumentation of ScriptCompilationUnit(L/Filesearcher/src/main/scala/testbed.sc)
+org.scalaide.worksheet.runtime.MissingTopLevelObjectDeclaration: Couldn't find top level object declaration in source testbed.sc
+	at org.scalaide.worksheet.runtime.SourceInstrumenter.instrumentProgram(SourceInstrumenter.scala:37)
+	at org.scalaide.worksheet.runtime.SourceInstrumenter.instrument(SourceInstrumenter.scala:24)
+	at org.scalaide.worksheet.runtime.WorksheetRunner$$anonfun$receive$1.applyOrElse(WorksheetRunner.scala:70)
+	at akka.actor.Actor$class.aroundReceive(Actor.scala:465)
+	at org.scalaide.worksheet.runtime.WorksheetRunner.aroundReceive(WorksheetRunner.scala:44)
+	at akka.actor.ActorCell.receiveMessage(ActorCell.scala:516)
+	at akka.actor.ActorCell.invoke(ActorCell.scala:487)
+	at akka.dispatch.Mailbox.processMailbox(Mailbox.scala:254)
+	at akka.dispatch.Mailbox.run(Mailbox.scala:221)
+	at akka.dispatch.Mailbox.exec(Mailbox.scala:231)
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)
+2015-08-24 21:26:51,758  WARN [Worker-8] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:26:51,758  WARN [Worker-8] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:26:51,778  WARN [Worker-8] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:26:51,779  WARN [Worker-8] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:26:51,795  WARN [Worker-8] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:26:51,795  WARN [Worker-8] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:26:53,631  WARN [Worker-8] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:26:53,631  WARN [Worker-8] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:26:53,650  WARN [Worker-8] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:26:53,651  WARN [Worker-8] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:26:53,670  WARN [Worker-8] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:26:53,670  WARN [Worker-8] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:27:03,133  WARN [Worker-5] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:27:03,134  WARN [Worker-5] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:27:03,183  WARN [Worker-5] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:27:03,184  WARN [Worker-5] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:27:03,203  WARN [Worker-5] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:27:03,203  WARN [Worker-5] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:27:04,233  WARN [Worker-8] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:27:04,233  WARN [Worker-8] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:27:04,251  WARN [Worker-8] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:27:04,251  WARN [Worker-8] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:27:04,266  WARN [Worker-8] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:27:04,266  WARN [Worker-8] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:27:41,724  WARN [main] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:27:41,724  WARN [main] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:27:41,852  WARN [Worker-8] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:27:41,852  WARN [Worker-8] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:27:41,867  WARN [Worker-8] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:27:41,867  WARN [Worker-8] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:27:41,902  WARN [Worker-8] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:27:41,902  WARN [Worker-8] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:27:56,168  WARN [Worker-8] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:27:56,168  WARN [Worker-8] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:27:56,181  WARN [Worker-8] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:27:56,181  WARN [Worker-8] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:27:56,196  WARN [Worker-8] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:27:56,196  WARN [Worker-8] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:28:12,999  WARN [Worker-7] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:28:13,000  WARN [Worker-7] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:28:13,014  WARN [Worker-7] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:28:13,014  WARN [Worker-7] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:28:13,026  WARN [Worker-7] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:28:13,027  WARN [Worker-7] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:28:22,949  WARN [main] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:28:22,949  WARN [main] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:28:31,922  WARN [main] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:28:31,922  WARN [main] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:28:32,037  WARN [Worker-10] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:28:32,037  WARN [Worker-10] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:28:32,051  WARN [Worker-10] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:28:32,051  WARN [Worker-10] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:28:32,063  WARN [Worker-10] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:28:32,063  WARN [Worker-10] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:35:59,344  WARN [Worker-12] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:35:59,344  WARN [Worker-12] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:35:59,357  WARN [Worker-12] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:35:59,357  WARN [Worker-12] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:35:59,369  WARN [Worker-12] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:35:59,369  WARN [Worker-12] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:36:48,504  WARN [main] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:36:48,504  WARN [main] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:36:48,774  WARN [Worker-9] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:36:48,774  WARN [Worker-9] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:36:48,787  WARN [Worker-9] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:36:48,787  WARN [Worker-9] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:36:48,798  WARN [Worker-9] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:36:48,798  WARN [Worker-9] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:37:00,950  WARN [Worker-14] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:37:00,950  WARN [Worker-14] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:37:00,963  WARN [Worker-14] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:37:00,963  WARN [Worker-14] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:37:00,979  WARN [Worker-14] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:37:00,979  WARN [Worker-14] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:37:34,691  WARN [main] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:37:34,691  WARN [main] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:37:34,929  WARN [Worker-17] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:37:34,929  WARN [Worker-17] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:37:34,942  WARN [Worker-17] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:37:34,942  WARN [Worker-17] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:37:34,956  WARN [Worker-17] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:37:34,956  WARN [Worker-17] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:37:54,676  WARN [Worker-17] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:37:54,677  WARN [Worker-17] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:37:54,689  WARN [Worker-17] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:37:54,689  WARN [Worker-17] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:37:54,701  WARN [Worker-17] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:37:54,701  WARN [Worker-17] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:39:22,464  WARN [Worker-5] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:39:22,465  WARN [Worker-5] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:39:22,477  WARN [Worker-5] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:39:22,478  WARN [Worker-5] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:39:22,488  WARN [Worker-5] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:39:22,488  WARN [Worker-5] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:39:36,794  WARN [Worker-17] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:39:36,794  WARN [Worker-17] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:39:36,806  WARN [Worker-17] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:39:36,806  WARN [Worker-17] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:39:36,815  WARN [Worker-17] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:39:36,816  WARN [Worker-17] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:39:56,735  WARN [Worker-12] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:39:56,735  WARN [Worker-12] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:39:56,748  WARN [Worker-12] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:39:56,748  WARN [Worker-12] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:39:56,760  WARN [Worker-12] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:39:56,760  WARN [Worker-12] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:45:17,733 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-24 21:45:17,733 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-24 21:45:17,733 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-24 21:46:25,512  WARN [Worker-14] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:46:25,512  WARN [Worker-14] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:46:25,524  WARN [Worker-14] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:46:25,524  WARN [Worker-14] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:46:25,533  WARN [Worker-14] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:46:25,533  WARN [Worker-14] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:47:34,211  WARN [Worker-21] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:47:34,211  WARN [Worker-21] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:47:34,223  WARN [Worker-21] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:47:34,223  WARN [Worker-21] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:47:34,233  WARN [Worker-21] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:47:34,233  WARN [Worker-21] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:47:35,003  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:47:35,003  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:47:38,248  WARN [main] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:47:38,249  WARN [main] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:47:38,583  WARN [Worker-23] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:47:38,583  WARN [Worker-23] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:47:38,594  WARN [Worker-23] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:47:38,595  WARN [Worker-23] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:47:39,426  WARN [Worker-23] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:47:39,426  WARN [Worker-23] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:47:42,078  WARN [main] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:47:42,078  WARN [main] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:47:42,713  WARN [Worker-23] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:47:42,713  WARN [Worker-23] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:47:42,725  WARN [Worker-23] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:47:42,725  WARN [Worker-23] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:47:43,674  WARN [Worker-23] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:47:43,674  WARN [Worker-23] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:47:45,842 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-24 21:47:45,842 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-24 21:47:45,842 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-24 21:48:10,773  WARN [Worker-21] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:48:10,773  WARN [Worker-21] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:48:10,785  WARN [Worker-21] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:48:10,785  WARN [Worker-21] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:48:11,419  WARN [Worker-21] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:48:11,419  WARN [Worker-21] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:48:28,886  WARN [Worker-25] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:48:28,886  WARN [Worker-25] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:48:28,898  WARN [Worker-25] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:48:28,898  WARN [Worker-25] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:48:28,909  WARN [Worker-25] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:48:28,909  WARN [Worker-25] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:49:29,867  WARN [main] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:49:29,868  WARN [main] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:49:30,141  WARN [Worker-21] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:49:30,141  WARN [Worker-21] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:49:30,152  WARN [Worker-21] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:49:30,152  WARN [Worker-21] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:49:30,719  WARN [Worker-21] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:49:30,719  WARN [Worker-21] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:53:13,781  WARN [Worker-25] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:53:13,781  WARN [Worker-25] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:53:13,791  WARN [Worker-25] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:53:13,791  WARN [Worker-25] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:54:46,006  WARN [Worker-28] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:54:46,006  WARN [Worker-28] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:54:46,020  WARN [Worker-28] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:54:46,020  WARN [Worker-28] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:54:46,580  WARN [Worker-28] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:54:46,580  WARN [Worker-28] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:54:54,399  WARN [Worker-30] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:54:54,399  WARN [Worker-30] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:54:54,409  WARN [Worker-30] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:54:54,409  WARN [Worker-30] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:55:24,140  WARN [Worker-14] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:55:24,140  WARN [Worker-14] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:55:24,151  WARN [Worker-14] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:55:24,151  WARN [Worker-14] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:55:24,161  WARN [Worker-14] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:55:24,161  WARN [Worker-14] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:55:47,333  WARN [Worker-32] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:55:47,333  WARN [Worker-32] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:55:47,344  WARN [Worker-32] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:55:47,344  WARN [Worker-32] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:55:47,579  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 343
+2015-08-24 21:55:47,579  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 343
+2015-08-24 21:55:50,364  WARN [Worker-25] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:55:50,364  WARN [Worker-25] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:55:50,376  WARN [Worker-25] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:55:50,376  WARN [Worker-25] - ScalaProject - Project Filesearcher runs on platform default installation.
+2015-08-24 21:55:50,386  WARN [Worker-25] - ScalaProject - Project Filesearcher has platform default sourceLevel.
+2015-08-24 21:55:50,386  WARN [Worker-25] - ScalaProject - Project Filesearcher runs on platform default installation.
