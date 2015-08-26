@@ -7,5 +7,5 @@ trait IOObject {
 /**
  * @author isaacross
  */
-class FileObject(val name: String) extends IOObject {}
-class DirectoryObject(val name: String) extends IOObject {}
+class FileObject(val name: String) extends IOObject 
+class DirectoryObject(val name: String) extends IOObject 
